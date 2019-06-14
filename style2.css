@@ -1,0 +1,23 @@
+ul.abc li a
+{
+	line-height: 3;
+}
+.abc2
+{
+	position: absolute;
+	top:0;
+
+}
+nav.mynav
+{
+	margin-bottom: 0;
+}
+div.contra
+{
+	width:100%;
+}
+.glyphicon.icon
+{
+	top:10px;
+	bottom:0;
+}
